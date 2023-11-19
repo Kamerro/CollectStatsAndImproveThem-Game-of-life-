@@ -62,6 +62,10 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="FormService.cs" />
+<<<<<<< HEAD
+    <Compile Include="LabelFactory.cs" />
+=======
+>>>>>>> 20ae22079232398ac2db5d521fcfa8bf051bb40e
     <Compile Include="LetterService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
