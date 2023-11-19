@@ -16,7 +16,7 @@ namespace ownWorld
     public class ServicePlacingControls
     {
 <<<<<<< HEAD
-        
+
         public static int initialPlaceholder = 10;
         public static int placeholder = initialPlaceholder;
         public static int spacebetween = 30;
